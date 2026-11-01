@@ -1,0 +1,7 @@
+name: hai-stt
+version: 0.1.0
+description: "HAI (hai.hcloud.ltd) 音声文字起こしバックエンド — Whisper Large V3 Turbo / V3 対応"
+author: HCloud-Ltd
+kind: backend
+requires_env:
+  - HAI_API_KEY
